@@ -1,0 +1,9 @@
+flask
+flask-RESTful
+flask_sqlalchemy
+flask_httpauth
+pymysql
+passlib
+functools32
+requests
+pyexcel_xls

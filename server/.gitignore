@@ -1,0 +1,10 @@
+web/static/*
+web/index.html
+web/admin.html
+web/file_config
+*.pyc
+.idea/
+web/upload/*
+/conf/*.json
+!/conf/config-*.json
+/logs/
